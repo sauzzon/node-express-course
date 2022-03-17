@@ -1,3 +1,8 @@
+#### Support
+
+Find the Content Useful?
+[You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+
 ## Node and Express Tutorial
 
 #### Contents
@@ -19,4 +24,3 @@
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
 12. Sessions
-13. Yelp Clone
